@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @kotatabe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2 align="left"> Hi there 👋</h2>
+
+
+<h3 align="left">🤵 About Me:</h3>
+
+🌱 I am a student studying in 42Tokyo.
+
+[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/ktabe?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 <!---
-kotatabe/kotatabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
 --->
+
+ * * *  
+<h3 align="left">📈 My Github stats:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotatabe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--- made by https://github.com/anuraghazra/github-readme-stats --->
