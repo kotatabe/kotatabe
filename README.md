@@ -8,9 +8,9 @@
 [![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/ktabe?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
  * * *  
-<h3 align="left">📈 My Github stats:</h3>
+<!-- <h3 align="left">📈 My Github stats:</h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kotatabe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotatabe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotatabe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--- made by https://github.com/anuraghazra/github-readme-stats --->
