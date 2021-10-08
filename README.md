@@ -17,13 +17,11 @@
 
 # 最近の42での成果物
 
-## 学生同士でペアを組みで, bash-like shellを実装
+## 学生同士でペアを組みで, bash-like shellを実装（https://github.com/seipan1213/minishell）
 * 簡潔な流れ
 1. シェルで受け取った文字列を単語分割
 2. 構文解析（処理する優先順位をつけるため抽象構文木というデータ構造にして保存）
 3. 実行
-* リンク
-  * [https://github.com/seipan1213/minishell]（https://github.com/seipan1213/minishell）
 * 利用した主な関数
   * 基本的なシステムコール関数（open, close, read, write, stat, lstat）
   * プロセス管理系（fork, waitpid, execve）
